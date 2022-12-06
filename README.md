@@ -5,3 +5,4 @@ This application runs in an Azure App Service and reads from an Azure MySQL serv
 The application uses Azure Key Vault to store database connection usernames and passwords.
 
 
+test
